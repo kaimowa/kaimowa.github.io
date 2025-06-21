@@ -37,6 +37,9 @@ h1 a:hover {
 	color: #f3f2eb;
 	margin: 0.5em 0 1em 0;
 }
+kkbutton {
+	font-size: 32px;
+}
 h2 {
 	font-size: 22px;
 	margin: 0;
